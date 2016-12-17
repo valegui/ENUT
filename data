@@ -1,0 +1,62 @@
+[
+  {
+    "region": "Antofagasta",
+    "tiempos": 3300.8827
+  },
+  {
+    "region": "Arica y Parinacota",
+    "tiempos": 1139.209
+  },
+  {
+    "region": "Atacama",
+    "tiempos": 1793.88
+  },
+  {
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "tiempos": 1794.03
+  },
+  {
+    "region": "Bí­obí­o",
+    "tiempos": 7510.438
+  },
+  {
+    "region": "Coquimbo",
+    "tiempos": 3898.938
+  },
+  {
+    "region": "La Araucaní­a",
+    "tiempos": 4621.4577
+  },
+  {
+    "region": "Libertador General Bernardo O'Higgins",
+    "tiempos": 6373.001
+  },
+  {
+    "region": "Los Lagos",
+    "tiempos": 4703.343
+  },
+  {
+    "region": "Los Rí­os",
+    "tiempos": 2547.495
+  },
+  {
+    "region": "Magallanes y de la Antártica Chilena",
+    "tiempos": 1003.2807
+  },
+  {
+    "region": "Maule",
+    "tiempos": 4025.022
+  },
+  {
+    "region": "Metropolitana de Santiago",
+    "tiempos": 19580.868
+  },
+  {
+    "region": "Tarapacá",
+    "tiempos": 1844.399
+  },
+  {
+    "region": "Valparaí­so",
+    "tiempos": 8718.756
+  }
+]
