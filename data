@@ -1,62 +1,38 @@
-[
-  {
-    "region": "Antofagasta",
-    "tiempos": 3300.8827
-  },
-  {
-    "region": "Arica y Parinacota",
-    "tiempos": 1139.209
-  },
-  {
-    "region": "Atacama",
-    "tiempos": 1793.88
-  },
-  {
-    "region": "AysÈn del General Carlos Ib·Òez del Campo",
-    "tiempos": 1794.03
-  },
-  {
-    "region": "BÌ≠obÌ≠o",
-    "tiempos": 7510.438
-  },
-  {
-    "region": "Coquimbo",
-    "tiempos": 3898.938
-  },
-  {
-    "region": "La AraucanÌ≠a",
-    "tiempos": 4621.4577
-  },
-  {
-    "region": "Libertador General Bernardo O'Higgins",
-    "tiempos": 6373.001
-  },
-  {
-    "region": "Los Lagos",
-    "tiempos": 4703.343
-  },
-  {
-    "region": "Los RÌ≠os",
-    "tiempos": 2547.495
-  },
-  {
-    "region": "Magallanes y de la Ant·rtica Chilena",
-    "tiempos": 1003.2807
-  },
-  {
-    "region": "Maule",
-    "tiempos": 4025.022
-  },
-  {
-    "region": "Metropolitana de Santiago",
-    "tiempos": 19580.868
-  },
-  {
-    "region": "Tarapac·",
-    "tiempos": 1844.399
-  },
-  {
-    "region": "ValparaÌ≠so",
-    "tiempos": 8718.756
-  }
+<!doctype html>
+<meta charset="utf-8">
+
+<script src="//d3plus.org/js/d3.js"></script>
+<script src="//d3plus.org/js/d3plus.js"></script>
+
+<div id="viz"></div>
+
+<script>
+
+  var data =[
+  {"year": 2015, "region": "Antofagasta", "tiempos": 3300.8827},
+  {"year": 2015, "region": "Arica y Parinacota", "tiempos": 1139.209},
+  {"year": 2015, "region": "Atacama", "tiempos": 1793.88},
+  {"year": 2015, "region": "Ays√©n del General Carlos Ib√°√±ez del Campo", "tiempos": 1794.03},
+  {"year": 2015, "region": "B√≠ob√≠o", "tiempos": 7510.438},
+  {"year": 2015, "region": "Coquimbo", "tiempos": 3898.938},
+  {"year": 2015, "region": "La Araucan√≠a", "tiempos": 4621.4577},
+  {"year": 2015, "region": "Libertador General Bernardo O'Higgins", "tiempos": 6373.001},
+  {"year": 2015, "region": "Los Lagos", "tiempos": 4703.343},
+  {"year": 2015, "region": "Los R√≠os", "tiempos": 2547.495},
+  {"year": 2015, "region": "Magallanes y de la Ant√°rtica Chilena", "tiempos": 1003.2807},
+  {"year": 2015, "region": "Maule", "tiempos": 4025.022},
+  {"year": 2015, "region": "Metropolitana de Santiago", "tiempos": 19580.868},
+  {"year": 2015, "region": "Tarapac√°", "tiempos": 1844.399},
+  {"year": 2015, "region": "Valpara√≠so", "tiempos": 8718.756}
 ]
+
+  var visualization = d3plus.viz()
+    .container("#viz")
+    .data(data)
+    .type("bar")
+    .id("region")
+    .x("year")
+    .y("tiempos")
+    .draw()
+
+</script>
