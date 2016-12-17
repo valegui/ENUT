@@ -1,0 +1,212 @@
+[
+  {
+    "c13_1_1": "Hombre",
+    "region": "Antofagasta",
+    "trabajo": 302,
+    "tiempos": 958.2323,
+    "horasprom": 3.173
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Arica y Parinacota",
+    "trabajo": 83,
+    "tiempos": 162.942,
+    "horasprom": 1.9632
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Atacama",
+    "trabajo": 205,
+    "tiempos": 445.666,
+    "horasprom": 2.174
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "trabajo": 237,
+    "tiempos": 492.761,
+    "horasprom": 2.0792
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Bí­obí­o",
+    "trabajo": 853,
+    "tiempos": 1903.4367,
+    "horasprom": 2.2315
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Coquimbo",
+    "trabajo": 409,
+    "tiempos": 902.951,
+    "horasprom": 2.2077
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "La Araucaní­a",
+    "trabajo": 571,
+    "tiempos": 1034.514,
+    "horasprom": 1.8118
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Libertador General Bernardo O'Higgins",
+    "trabajo": 601,
+    "tiempos": 1626.333,
+    "horasprom": 2.706
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Los Lagos",
+    "trabajo": 561,
+    "tiempos": 1509.549,
+    "horasprom": 2.6908
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Los Rí­os",
+    "trabajo": 247,
+    "tiempos": 693.602,
+    "horasprom": 2.8081
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Magallanes y de la Antártica Chilena",
+    "trabajo": 145,
+    "tiempos": 258.106,
+    "horasprom": 1.78
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Maule",
+    "trabajo": 417,
+    "tiempos": 967.11,
+    "horasprom": 2.3192
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Metropolitana de Santiago",
+    "trabajo": 2118,
+    "tiempos": 4837.249,
+    "horasprom": 2.2839
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Tarapacá",
+    "trabajo": 226,
+    "tiempos": 455.523,
+    "horasprom": 2.0156
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Valparaí­so",
+    "trabajo": 872,
+    "tiempos": 2400.971,
+    "horasprom": 2.7534
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Antofagasta",
+    "trabajo": 471,
+    "tiempos": 2342.6503,
+    "horasprom": 4.9738
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Arica y Parinacota",
+    "trabajo": 190,
+    "tiempos": 976.267,
+    "horasprom": 5.1382
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Atacama",
+    "trabajo": 296,
+    "tiempos": 1348.214,
+    "horasprom": 4.5548
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "trabajo": 322,
+    "tiempos": 1301.269,
+    "horasprom": 4.0412
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Bí­obí­o",
+    "trabajo": 1273,
+    "tiempos": 5607.0013,
+    "horasprom": 4.4046
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Coquimbo",
+    "trabajo": 647,
+    "tiempos": 2995.987,
+    "horasprom": 4.6306
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "La Araucaní­a",
+    "trabajo": 851,
+    "tiempos": 3586.9437,
+    "horasprom": 4.215
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Libertador General Bernardo O'Higgins",
+    "trabajo": 906,
+    "tiempos": 4746.668,
+    "horasprom": 5.2391
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Los Lagos",
+    "trabajo": 768,
+    "tiempos": 3193.794,
+    "horasprom": 4.1586
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Los Rí­os",
+    "trabajo": 372,
+    "tiempos": 1853.893,
+    "horasprom": 4.9836
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Magallanes y de la Antártica Chilena",
+    "trabajo": 200,
+    "tiempos": 745.1747,
+    "horasprom": 3.7259
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Maule",
+    "trabajo": 742,
+    "tiempos": 3057.912,
+    "horasprom": 4.1212
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Metropolitana de Santiago",
+    "trabajo": 3187,
+    "tiempos": 14743.619,
+    "horasprom": 4.6262
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Tarapacá",
+    "trabajo": 284,
+    "tiempos": 1388.876,
+    "horasprom": 4.8904
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Valparaí­so",
+    "trabajo": 1212,
+    "tiempos": 6317.785,
+    "horasprom": 5.2127
+  }
+]
