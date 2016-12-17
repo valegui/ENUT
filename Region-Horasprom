@@ -1,0 +1,92 @@
+[
+  {
+    "region": "Antofagasta",
+    "trabajo": 773,
+    "tiempos": 3300.8827,
+    "horasprom": 4.2702
+  },
+  {
+    "region": "Arica y Parinacota",
+    "trabajo": 273,
+    "tiempos": 1139.209,
+    "horasprom": 4.1729
+  },
+  {
+    "region": "Atacama",
+    "trabajo": 501,
+    "tiempos": 1793.88,
+    "horasprom": 3.5806
+  },
+  {
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "trabajo": 559,
+    "tiempos": 1794.03,
+    "horasprom": 3.2094
+  },
+  {
+    "region": "Bí­obí­o",
+    "trabajo": 2126,
+    "tiempos": 7510.438,
+    "horasprom": 3.5327
+  },
+  {
+    "region": "Coquimbo",
+    "trabajo": 1056,
+    "tiempos": 3898.938,
+    "horasprom": 3.6922
+  },
+  {
+    "region": "La Araucaní­a",
+    "trabajo": 1422,
+    "tiempos": 4621.4577,
+    "horasprom": 3.25
+  },
+  {
+    "region": "Libertador General Bernardo O'Higgins",
+    "trabajo": 1507,
+    "tiempos": 6373.001,
+    "horasprom": 4.2289
+  },
+  {
+    "region": "Los Lagos",
+    "trabajo": 1329,
+    "tiempos": 4703.343,
+    "horasprom": 3.539
+  },
+  {
+    "region": "Los Rí­os",
+    "trabajo": 619,
+    "tiempos": 2547.495,
+    "horasprom": 4.1155
+  },
+  {
+    "region": "Magallanes y de la Antártica Chilena",
+    "trabajo": 345,
+    "tiempos": 1003.2807,
+    "horasprom": 2.9081
+  },
+  {
+    "region": "Maule",
+    "trabajo": 1159,
+    "tiempos": 4025.022,
+    "horasprom": 3.4728
+  },
+  {
+    "region": "Metropolitana de Santiago",
+    "trabajo": 5305,
+    "tiempos": 19580.868,
+    "horasprom": 3.691
+  },
+  {
+    "region": "Tarapacá",
+    "trabajo": 510,
+    "tiempos": 1844.399,
+    "horasprom": 3.6165
+  },
+  {
+    "region": "Valparaí­so",
+    "trabajo": 2084,
+    "tiempos": 8718.756,
+    "horasprom": 4.1837
+  }
+]
