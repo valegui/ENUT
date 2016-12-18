@@ -4,13 +4,15 @@
     "cuidados": 194,
     "tiemposcuidando": 227.8223,
     "unos": 16440,
-    "Porcentaje": 1.18
+    "Porcentaje": 1.18,
+    "HorasProm": 117.4342
   },
   {
     "c13_1_1": "Mujer",
     "cuidados": 483,
     "tiemposcuidando": 1415.931,
     "unos": 18135,
-    "Porcentaje": 2.6634
+    "Porcentaje": 2.6634,
+    "HorasProm": 293.1534
   }
 ]
