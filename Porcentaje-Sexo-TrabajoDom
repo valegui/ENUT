@@ -1,0 +1,34 @@
+[
+  {
+    "Sexo": "Hombre",
+    "Realiza.Trabajo": "Si",
+    "trabajo": 7847,
+    "Total": 16440,
+    "Porcentaje.del.total": 22.7,
+    "Porcentaje.del.sexo": 47.73
+  },
+  {
+    "Sexo": "Mujer",
+    "Realiza.Trabajo": "Si",
+    "trabajo": 11721,
+    "Total": 18135,
+    "Porcentaje.del.total": 33.9,
+    "Porcentaje.del.sexo": 64.63
+  },
+  {
+    "Sexo": "Hombre",
+    "Realiza.Trabajo": "No",
+    "trabajo": 8593,
+    "Total": 16440,
+    "Porcentaje.del.total": 24.9,
+    "Porcentaje.del.sexo": 52.27
+  },
+  {
+    "Sexo": "Mujer",
+    "Realiza.Trabajo": "No",
+    "trabajo": 6414,
+    "Total": 18135,
+    "Porcentaje.del.total": 18.6,
+    "Porcentaje.del.sexo": 35.37
+  }
+]
