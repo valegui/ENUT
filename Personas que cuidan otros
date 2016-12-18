@@ -1,0 +1,16 @@
+[
+  {
+    "c13_1_1": "Hombre",
+    "cuidados": 194,
+    "tiemposcuidando": 227.8223,
+    "unos": 16440,
+    "Porcentaje": 1.18
+  },
+  {
+    "c13_1_1": "Mujer",
+    "cuidados": 483,
+    "tiemposcuidando": 1415.931,
+    "unos": 18135,
+    "Porcentaje": 2.6634
+  }
+]
