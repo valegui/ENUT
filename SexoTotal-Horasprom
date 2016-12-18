@@ -1,0 +1,14 @@
+[
+  {
+    "c13_1_1": "Hombre",
+    "trabajo": 7847,
+    "tiempos": 18648.946,
+    "horasprom": 2.3766
+  },
+  {
+    "c13_1_1": "Mujer",
+    "trabajo": 11721,
+    "tiempos": 54206.054,
+    "horasprom": 4.6247
+  }
+]
