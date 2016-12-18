@@ -1,0 +1,182 @@
+[
+  {
+    "c13_1_1": "Hombre",
+    "region": "Tarapacá",
+    "cuidados": 7,
+    "tiemposcuidando": 5.915
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Antofagasta",
+    "cuidados": 12,
+    "tiemposcuidando": 15.332
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Atacama",
+    "cuidados": 3,
+    "tiemposcuidando": 2.5
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Coquimbo",
+    "cuidados": 9,
+    "tiemposcuidando": 10.116
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Valparaíso",
+    "cuidados": 17,
+    "tiemposcuidando": 10.882
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Libertador General Bernardo O'Higgins",
+    "cuidados": 18,
+    "tiemposcuidando": 20.083
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Maule",
+    "cuidados": 10,
+    "tiemposcuidando": 11.699
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Bíobío",
+    "cuidados": 31,
+    "tiemposcuidando": 44.047
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "La Araucanía",
+    "cuidados": 9,
+    "tiemposcuidando": 6.85
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Los Lagos",
+    "cuidados": 20,
+    "tiemposcuidando": 38.897
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "cuidados": 3,
+    "tiemposcuidando": 5.1003
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Magallanes y de la Antártica Chilena",
+    "cuidados": 3,
+    "tiemposcuidando": 5.75
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Metropolitana de Santiago",
+    "cuidados": 40,
+    "tiemposcuidando": 42.75
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Los Ríos",
+    "cuidados": 4,
+    "tiemposcuidando": 1.767
+  },
+  {
+    "c13_1_1": "Hombre",
+    "region": "Arica y Parinacota",
+    "cuidados": 8,
+    "tiemposcuidando": 6.134
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Tarapacá",
+    "cuidados": 13,
+    "tiemposcuidando": 29.732
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Antofagasta",
+    "cuidados": 22,
+    "tiemposcuidando": 121.23
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Atacama",
+    "cuidados": 12,
+    "tiemposcuidando": 16.134
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Coquimbo",
+    "cuidados": 18,
+    "tiemposcuidando": 27.65
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Valparaíso",
+    "cuidados": 38,
+    "tiemposcuidando": 95.449
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Libertador General Bernardo O'Higgins",
+    "cuidados": 51,
+    "tiemposcuidando": 97.265
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Maule",
+    "cuidados": 18,
+    "tiemposcuidando": 24.132
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Bíobío",
+    "cuidados": 63,
+    "tiemposcuidando": 169.618
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "La Araucanía",
+    "cuidados": 27,
+    "tiemposcuidando": 231.983
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Los Lagos",
+    "cuidados": 46,
+    "tiemposcuidando": 104.83
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Aysén del General Carlos Ibáñez del Campo",
+    "cuidados": 10,
+    "tiemposcuidando": 33.151
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Magallanes y de la Antártica Chilena",
+    "cuidados": 6,
+    "tiemposcuidando": 6.168
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Metropolitana de Santiago",
+    "cuidados": 133,
+    "tiemposcuidando": 391.225
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Los Ríos",
+    "cuidados": 11,
+    "tiemposcuidando": 28.8
+  },
+  {
+    "c13_1_1": "Mujer",
+    "region": "Arica y Parinacota",
+    "cuidados": 15,
+    "tiemposcuidando": 38.564
+  }
+]
