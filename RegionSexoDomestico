@@ -1,0 +1,152 @@
+[
+  {
+    "Sexo": "Hombre",
+    "Region": "Tarapacá",
+    "Tiempo": 1.5321
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Antofagasta",
+    "Tiempo": 1.4963
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Atacama",
+    "Tiempo": 1.3417
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Coquimbo",
+    "Tiempo": 1.5199
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Valparaíso",
+    "Tiempo": 1.7105
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Libertador General Bernardo O'Higgins",
+    "Tiempo": 1.4107
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Maule",
+    "Tiempo": 0.8751
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Bíobío",
+    "Tiempo": 1.301
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "La Araucanía",
+    "Tiempo": 1.2134
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Los Lagos",
+    "Tiempo": 1.2889
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Aysén del General Carlos Ibáñez del Campo",
+    "Tiempo": 1.4867
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Magallanes y de la Antártica Chilena",
+    "Tiempo": 1.2443
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Metropolitana de Santiago",
+    "Tiempo": 1.3184
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Los Ríos",
+    "Tiempo": 1.7933
+  },
+  {
+    "Sexo": "Hombre",
+    "Region": "Arica y Parinacota",
+    "Tiempo": 1.2801
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Tarapacá",
+    "Tiempo": 3.5605
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Antofagasta",
+    "Tiempo": 3.2884
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Atacama",
+    "Tiempo": 3.8161
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Coquimbo",
+    "Tiempo": 3.4006
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Valparaíso",
+    "Tiempo": 3.3714
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Libertador General Bernardo O'Higgins",
+    "Tiempo": 3.5932
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Maule",
+    "Tiempo": 2.8272
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Bíobío",
+    "Tiempo": 3.1916
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "La Araucanía",
+    "Tiempo": 2.7886
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Los Lagos",
+    "Tiempo": 2.9106
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Aysén del General Carlos Ibáñez del Campo",
+    "Tiempo": 2.9991
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Magallanes y de la Antártica Chilena",
+    "Tiempo": 3.0717
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Metropolitana de Santiago",
+    "Tiempo": 3.1209
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Los Ríos",
+    "Tiempo": 3.8509
+  },
+  {
+    "Sexo": "Mujer",
+    "Region": "Arica y Parinacota",
+    "Tiempo": 2.658
+  }
+]
