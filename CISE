@@ -1,52 +1,52 @@
 [
   {
-    "c13_1_1": "Hombre",
-    "cise_5": "Empleador(a) o cuenta propia",
+    "Sexo": "Hombre",
+    "CISE Abreviada": "Empleador(a) o cuenta propia",
     "wgt2": 991622.3944
   },
   {
-    "c13_1_1": "Hombre",
-    "cise_5": "Asalariada(o) sector privado",
+    "Sexo": "Hombre",
+    "CISE Abreviada": "Asalariada(o) sector privado",
     "wgt2": 2729846.0418
   },
   {
-    "c13_1_1": "Hombre",
-    "cise_5": "Asalariada(o) sector público",
+    "Sexo": "Hombre",
+    "CISE Abreviada": "Asalariada(o) sector público",
     "wgt2": 459261.2843
   },
   {
-    "c13_1_1": "Hombre",
-    "cise_5": "Personal del servicio doméstico pagado",
+    "Sexo": "Hombre",
+    "CISE Abreviada": "Personal del servicio doméstico pagado",
     "wgt2": 38673.9493
   },
   {
-    "c13_1_1": "Hombre",
-    "cise_5": "Familiar o personal no remunerado",
+    "Sexo": "Hombre",
+    "CISE Abreviada": "Familiar o personal no remunerado",
     "wgt2": 11961.3048
   },
   {
-    "c13_1_1": "Mujer",
-    "cise_5": "Empleador(a) o cuenta propia",
+    "Sexo": "Mujer",
+    "CISE Abreviada": "Empleador(a) o cuenta propia",
     "wgt2": 808354.9869
   },
   {
-    "c13_1_1": "Mujer",
-    "cise_5": "Asalariada(o) sector privado",
+    "Sexo": "Mujer",
+    "CISE Abreviada": "Asalariada(o) sector privado",
     "wgt2": 1715994.1451
   },
   {
-    "c13_1_1": "Mujer",
-    "cise_5": "Asalariada(o) sector público",
+    "Sexo": "Mujer",
+    "CISE Abreviada": "Asalariada(o) sector público",
     "wgt2": 509974.1762
   },
   {
-    "c13_1_1": "Mujer",
-    "cise_5": "Personal del servicio doméstico pagado",
+    "Sexo": "Mujer",
+    "CISE Abreviada": "Personal del servicio doméstico pagado",
     "wgt2": 306442.3476
   },
   {
-    "c13_1_1": "Mujer",
-    "cise_5": "Familiar o personal no remunerado",
+    "Sexo": "Mujer",
+    "CISE Abreviada": "Familiar o personal no remunerado",
     "wgt2": 18008.9702
   }
 ]
